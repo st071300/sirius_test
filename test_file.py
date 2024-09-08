@@ -5,4 +5,4 @@ print('test for git diff')
 
 print('check for fatal error'
 
-print(1))
+print(1)
